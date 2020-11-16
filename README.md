@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I am Krisna, a student of Sepuluh Nopember Institute of Technology that's currently majoring in Computer Science!
+- 🔭 I’m currently working on ITS Debating Society's webpage
+- 🌱 I’m currently learning Backend Web Development
 
 ## My Github Stats
 <p>
