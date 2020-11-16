@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **putukrisna6/putukrisna6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## GitHub Stats
+I am Krisna, a student of Sepuluh Nopember Institute of Technology majoring in Computer Science!
+
+## My Github Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&hide_border=true&hide=html,css" />
   <img src="https://github-readme-stats.vercel.app/api?username=putukrisna6&line_height=27&count_private=true&hide_border=true&show_icons=true">
