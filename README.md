@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Krisna, a student of Sepuluh Nopember Institute of Technology majoring in Computer Science!
+#### I am Krisna, a student of Sepuluh Nopember Institute of Technology that's currently majoring in Computer Science!
 
 ## My Github Stats
 <p>
