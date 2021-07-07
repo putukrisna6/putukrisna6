@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 ### I am Krisna, a student of Sepuluh Nopember Institute of Technology that's currently majoring in Computer Science!
 
-## My LinkedIn
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="putu-krisna-andyartha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/putu-krisna-andyartha?trk=profile-badge">Putu Krisna Andyartha</a></div>
-
 ## My Github Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&hide_border=true&hide=html,css&theme=onedark" />
