@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## My Github Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&hide_border=true&hide=html,css&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&hide_border=true&hide=html,css&theme=onedark&langs_count=8" />
 </p>
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=putukrisna6&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=onedark">
