@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=putukrisna6.putukrisna6&left_color=blue&right_color=green)
 
 <!--
 **putukrisna6/putukrisna6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am Krisna, a student of Sepuluh Nopember Institute of Technology that's currently majoring in Computer Science!
+
+
+### I am _Krisna_, a student of ITS-Indonesia learning Informatics!
+I mostly focus on Back-End side of things, some of the things I do are:
+- 🌐 Web development
+- 🔗 API development
+- 🏭 Testing automation
+
+Currently, I am learning on Go and Microservices
 
 ## My Github Stats
 <div>
-  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&hide_border=true&hide=html,css,blade&theme=onedark&langs_count=6"/>
-  <img height=250 src="https://github-readme-stats.vercel.app/api?username=putukrisna6&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=onedark">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&layout=compact&hide_border=true&hide=html,css,blade&theme=onedark&langs_count=6"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=putukrisna6&custom_title=Krisna's Github Stats&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=onedark">
+</div>
+
+## My Workspace
+<div>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010400f-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-rtx%203060Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
+
+## Reach out to me!
+<div>
+    <a href="https://www.linkedin.com/in/putu-krisna-andyartha/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/PutuKrisna15">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>
 </div>
