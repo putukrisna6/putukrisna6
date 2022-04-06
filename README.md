@@ -26,8 +26,8 @@ Currently, I am learning on Go and Microservices
 
 ## My Github Stats
 <div>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&layout=compact&hide_border=true&hide=html,css,blade&theme=onedark&langs_count=6"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=putukrisna6&custom_title=Krisna's Github Stats&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=onedark">
+  <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&layout=compact&hide_border=true&hide=html,css,blade&theme=onedark&langs_count=6"/>
+  <img height=154 src="https://github-readme-stats.vercel.app/api?username=putukrisna6&custom_title=Krisna's Github Stats&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=onedark">
 </div>
 
 ## My Workspace
