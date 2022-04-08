@@ -1,4 +1,4 @@
-## Hello! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=putukrisna6.putukrisna6&left_color=blue&right_color=green)
+## Hello! 👋
 
 <!--
 **putukrisna6/putukrisna6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
