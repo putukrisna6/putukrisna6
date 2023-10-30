@@ -16,18 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-### I am _Krisna_, a student of ITS-Indonesia learning Informatics!
+### I am _Krisna_, a master student of ITS-Indonesia learning Informatics!
 I mostly focus on Back-End side of things, some of the things I do are:
-- 🌐 Web development
-- 🔗 API development
+- 🌐 Web & API development
 - 🏭 Testing automation
+- ⚡ Machine Learning integration
 
-Currently, I am learning on Go and Microservices
+As a postgraduate, I do research on software architecture and development. 
 
 ## My Github Stats
 <div>
   <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&layout=compact&hide_border=true&hide=html,css,blade&theme=onedark&langs_count=6"/>
-  <img height=154 src="https://github-readme-stats.vercel.app/api?username=putukrisna6&custom_title=Krisna's Github Stats&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=onedark">
 </div>
 
 ## My Workspace
@@ -43,7 +42,7 @@ Currently, I am learning on Go and Microservices
     <a href="https://www.linkedin.com/in/putu-krisna-andyartha/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/PutuKrisna15">
+  <a href="https://twitter.com/notKrisna">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>
 </div>
