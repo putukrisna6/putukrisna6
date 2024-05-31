@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### I am _Krisna_, a master student of ITS-Indonesia learning Informatics!
+### I am _Krisna_, a software engineer!
 I mostly focus on Back-End side of things, some of the things I do are:
 - 🌐 Web & API development
 - 🏭 Testing automation
