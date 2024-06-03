@@ -22,8 +22,6 @@ I mostly focus on Back-End side of things, some of the things I do are:
 - 🏭 Testing automation
 - ⚡ Machine Learning integration
 
-As a postgraduate, I do research on software architecture and development. 
-
 ## My Github Stats
 <div>
   <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&layout=compact&hide_border=true&hide=html,css,blade&theme=onedark&langs_count=6"/>
