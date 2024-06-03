@@ -24,7 +24,7 @@ I mostly focus on Back-End side of things, some of the things I do are:
 
 ## My Github Stats
 <div>
-  <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&layout=compact&hide_border=true&hide=html,css,blade,jupyter&theme=onedark&langs_count=6"/>
+  <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=putukrisna6&layout=compact&hide_border=true&hide=html,css,blade,jupyter%20notebook&theme=onedark&langs_count=6"/>
 </div>
 
 ## My Workspace
